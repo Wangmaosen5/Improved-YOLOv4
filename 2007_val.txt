@@ -1,0 +1,195 @@
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1923.jpg 115,63,473,230,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1924.jpg 201,265,314,343,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1925.jpg 20,215,689,591,2 697,430,882,534,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1926.jpg 97,150,169,183,2 186,79,443,313,2 401,150,485,186,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1927.jpg 295,88,408,144,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1928.jpg 43,403,531,648,2 579,385,1156,688,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1929.jpg 363,457,582,617,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/193.jpg 496,192,520,229,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1930.jpg 43,98,1240,716,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1931.jpg 112,213,1047,670,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1933.jpg 421,113,1069,729,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1934.jpg 61,522,526,770,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1935.jpg 440,390,887,608,2 646,173,1166,454,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1936.jpg 384,526,679,792,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1937.jpg 196,363,638,615,2 499,298,891,478,2 694,465,1152,732,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1938.jpg 556,384,1047,669,2 1093,526,1234,599,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1939.jpg 309,232,1059,595,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/194.jpg 272,146,405,223,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1940.jpg 83,452,772,876,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1941.jpg 181,283,661,543,2 729,226,1228,571,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1942.jpg 557,117,1069,708,2 1,366,101,443,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1943.jpg 227,519,449,662,2 521,374,1089,725,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1946.jpg 304,532,525,637,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1947.jpg 688,420,1029,596,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1948.jpg 374,169,721,394,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/195.jpg 117,97,389,272,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1950.jpg 404,259,764,469,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1951.jpg 162,269,562,532,1 672,394,939,537,2 960,389,1231,515,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1952.jpg 249,57,1121,545,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1954.jpg 488,620,969,811,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1955.jpg 496,295,1047,593,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1957.jpg 224,453,451,591,2 839,456,1077,583,2 228,377,359,418,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1959.jpg 212,289,980,678,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/196.jpg 72,61,137,128,0 184,76,229,128,0 399,125,462,175,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1961.jpg 516,574,833,784,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1962.jpg 687,428,918,546,2 680,329,810,399,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1963.jpg 539,323,1183,764,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1964.jpg 361,218,1068,676,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1965.jpg 293,297,701,553,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1966.jpg 183,180,1037,633,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1967.jpg 576,385,1065,646,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1968.jpg 298,411,529,577,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1969.jpg 503,296,923,556,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/197.jpg 129,119,533,391,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1970.jpg 576,324,1056,553,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1971.jpg 508,309,1126,704,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1973.jpg 168,276,467,402,2 527,388,936,577,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1974.jpg 703,367,868,456,2 1028,309,1190,459,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1975.jpg 422,310,865,660,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1976.jpg 103,80,323,185,2 567,274,1065,518,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1977.jpg 267,312,507,439,2 814,399,1101,553,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1978.jpg 200,315,501,534,1 493,273,1172,607,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1979.jpg 97,251,1103,699,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1981.jpg 123,70,1164,649,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1984.jpg 401,315,695,500,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1986.jpg 413,595,682,726,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1987.jpg 268,474,567,620,2 905,368,1156,468,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1988.jpg 542,93,1073,550,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1989.jpg 56,189,1072,698,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/199.jpg 506,213,532,247,0 448,219,479,248,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1990.jpg 180,149,1165,747,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1991.jpg 418,353,809,654,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1992.jpg 179,325,786,622,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1993.jpg 406,155,1151,594,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1994.jpg 272,283,844,681,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1995.jpg 375,240,1168,684,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1996.jpg 292,275,1020,737,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1997.jpg 97,121,1037,713,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1998.jpg 219,328,505,535,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/1999.jpg 463,181,996,617,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2000.jpg 294,320,550,462,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2001.jpg 363,396,566,513,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2002.jpg 167,131,732,596,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2003.jpg 266,206,635,499,2 927,330,1124,478,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2004.jpg 136,187,1204,708,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2005.jpg 134,243,639,577,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2006.jpg 428,282,773,554,2 1033,410,1180,531,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2007.jpg 137,274,502,497,2 548,198,1133,508,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2008.jpg 628,267,1066,571,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2009.jpg 31,167,1093,739,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/201.jpg 742,348,791,398,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2010.jpg 198,222,1089,705,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2012.jpg 103,179,772,705,2 1034,532,1112,609,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2013.jpg 288,173,1042,572,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2014.jpg 365,235,861,576,2 30,301,166,400,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2015.jpg 512,231,1087,613,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2017.jpg 505,346,1240,906,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2018.jpg 381,368,957,818,2 1139,468,1584,838,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2019.jpg 357,614,587,775,2 1000,537,1270,690,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/202.jpg 214,109,256,146,0 267,63,333,138,0 379,40,458,115,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2020.jpg 376,276,1220,922,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2023.jpg 641,369,1573,999,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2024.jpg 931,249,1201,408,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/204.jpg 74,129,104,163,0 117,133,138,163,0 163,141,189,169,0 206,137,230,163,0 249,142,275,172,0 287,127,310,158,0 329,135,357,159,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/205.jpg 1024,179,1079,249,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/206.jpg 74,219,308,337,2 186,99,524,304,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/208.jpg 271,56,569,253,1 106,94,225,162,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/209.jpg 218,180,382,333,2 105,74,290,152,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/21.jpg 738,1124,1618,2386,0 1757,1159,2311,1836,0 2742,259,3499,1136,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/211.jpg 175,406,233,434,2 304,403,366,433,2 408,409,459,437,2 533,446,591,477,2 824,447,876,483,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/212.jpg 437,139,476,185,0 407,145,428,163,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/213.jpg 106,295,206,418,1 423,257,553,317,1 328,345,476,399,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/215.jpg 474,265,490,286,0 518,272,529,282,0 543,271,557,287,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/216.jpg 68,167,99,190,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/217.jpg 174,121,496,317,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/218.jpg 310,213,356,264,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/219.jpg 455,747,729,1100,0 1264,762,1508,1162,0 1826,685,2020,1006,0 2126,829,2488,1203,0 2567,697,2905,1109,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/22.jpg 1205,680,1739,1166,0 2005,764,2668,1413,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/220.jpg 280,243,380,336,2 485,285,641,391,2 893,195,958,223,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/221.jpg 783,98,955,262,0 646,257,734,351,0 486,220,542,277,0 330,303,359,330,0 395,278,429,315,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/222.jpg 439,167,493,246,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/224.jpg 131,217,582,540,2 686,422,821,523,2 826,451,876,520,2 882,470,905,526,2 907,475,928,504,2 931,460,953,490,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/226.jpg 23,54,83,92,0 257,40,323,89,0 234,181,297,225,0 175,42,198,65,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/227.jpg 807,254,1286,808,0 1319,375,1474,593,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/228.jpg 108,92,622,429,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/229.jpg 178,46,204,66,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/23.jpg 228,193,257,217,0 329,191,356,214,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/231.jpg 123,17,227,121,0 285,68,365,177,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2314.jpg 377,148,449,253,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2315.jpg 142,202,193,262,0 335,110,772,453,2 265,239,383,352,2 245,270,311,356,2 235,293,281,364,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2316.jpg 88,290,236,353,2 244,375,364,457,2 274,305,482,382,1 168,230,204,296,1 368,229,447,288,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2318.jpg 335,273,625,451,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2319.jpg 154,226,211,307,0 232,167,298,246,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/232.jpg 34,280,439,494,2 77,48,786,359,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2321.jpg 104,154,123,176,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2323.jpg 590,365,660,435,0 15,8,563,552,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2324.jpg 167,134,631,501,2 637,162,800,482,2 4,168,190,469,2 576,191,601,216,0 495,220,520,246,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2325.jpg 139,195,188,257,0 334,107,786,464,2 267,231,377,367,2 241,269,310,373,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2326.jpg 52,118,311,247,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2327.jpg 277,312,302,341,0 358,153,422,221,0 579,200,629,267,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2329.jpg 450,17,599,261,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/233.jpg 239,15,329,100,0 400,52,459,119,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2331.jpg 227,112,297,215,0 331,211,684,480,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2332.jpg 8,4,635,561,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2335.jpg 160,190,191,227,0 371,250,508,413,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/234.jpg 20,153,188,282,2 194,185,305,276,2 318,196,409,275,2 412,209,483,258,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2340.jpg 172,136,631,490,2 645,164,800,486,2 2,173,184,451,2 578,187,601,214,0 502,222,524,245,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2341.jpg 392,206,473,255,2 478,164,548,217,2 601,127,654,175,2 669,96,732,158,2 731,88,777,131,2 289,263,407,341,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2343.jpg 442,163,513,252,0 539,142,616,228,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2345.jpg 116,47,308,307,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2346.jpg 256,197,469,348,2 101,217,142,246,2 72,198,120,218,1 41,127,708,457,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2347.jpg 263,133,327,218,0 353,203,691,444,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2348.jpg 601,266,760,355,2 113,9,608,492,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2349.jpg 108,175,237,295,2 247,256,386,378,2 654,351,736,450,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2350.jpg 124,121,186,167,2 322,43,380,76,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2351.jpg 60,129,97,166,0 114,119,148,154,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2353.jpg 413,39,699,415,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2355.jpg 273,238,406,304,2 732,375,786,496,1 191,217,281,262,1 83,93,192,209,1 322,95,473,154,1 308,139,406,187,2 468,158,601,222,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2356.jpg 383,253,418,296,0 107,74,702,546,2 8,209,144,462,2 656,161,797,455,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2357.jpg 122,168,427,432,2 451,291,565,431,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2358.jpg 90,192,497,397,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2359.jpg 4,192,34,229,1 253,101,281,133,1 299,130,311,146,0 314,130,328,151,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/236.jpg 64,286,312,403,2 437,154,687,403,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2362.jpg 105,11,529,534,1 460,270,800,586,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2363.jpg 133,70,166,118,0 176,101,352,220,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2364.jpg 57,28,236,248,0 279,152,353,254,0 469,210,645,347,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2365.jpg 30,188,459,452,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2366.jpg 53,110,298,237,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2367.jpg 435,268,465,323,0 474,290,512,346,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2369.jpg 497,47,675,281,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/237.jpg 41,91,74,124,0 193,121,206,138,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2371.jpg 106,41,704,520,2 535,185,562,204,0 635,141,666,174,0 5,184,167,435,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2372.jpg 7,1,255,326,0 261,53,383,266,0 468,444,598,509,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2374.jpg 86,215,615,476,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2375.jpg 76,113,103,152,0 116,78,151,124,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2377.jpg 195,89,400,364,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2378.jpg 270,137,328,227,0 363,222,710,436,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2379.jpg 171,104,800,471,1 457,334,594,400,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2380.jpg 172,128,207,162,0 258,120,291,160,0 69,99,170,147,1 21,133,123,199,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2381.jpg 143,32,160,47,2 171,39,189,52,2 218,39,240,54,2 267,43,296,65,2 335,60,369,86,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2382.jpg 95,231,233,340,2 90,43,153,98,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2385.jpg 46,45,126,149,0 188,34,213,70,0 291,45,320,92,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2386.jpg 535,182,561,205,0 635,139,665,171,0 111,49,701,545,2 5,163,154,447,2 711,134,790,446,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2388.jpg 108,47,716,523,2 535,181,563,214,0 631,137,670,172,0 2,161,163,454,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2389.jpg 384,221,584,343,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/239.jpg 528,179,680,300,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2390.jpg 405,141,514,195,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2391.jpg 294,83,420,258,0 423,121,598,329,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2393.jpg 91,86,258,293,0 365,65,437,154,0 582,93,641,185,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2394.jpg 499,218,529,245,0 577,193,601,214,0 160,125,633,487,2 4,168,200,434,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2395.jpg 156,294,273,397,2 285,292,456,375,2 499,207,556,284,0 648,181,713,278,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2396.jpg 158,204,210,281,0 242,218,298,298,0 293,209,365,287,2 20,245,141,289,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2397.jpg 577,413,618,448,2 617,430,655,461,2 692,451,744,493,2 151,423,245,501,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2398.jpg 200,476,483,679,2 188,92,294,202,1 323,65,427,158,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2399.jpg 39,141,181,280,0 424,247,501,373,0 450,176,519,256,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/24.jpg 951,428,1081,571,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/240.jpg 259,91,360,193,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2401.jpg 223,48,418,345,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2402.jpg 83,292,227,347,2 249,367,367,459,2 272,300,454,375,1 367,223,444,285,1 167,232,202,295,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2403.jpg 349,289,715,434,1
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2405.jpg 662,125,738,174,2 533,90,594,129,2 443,79,483,111,2 335,77,383,105,2 289,69,323,97,2 273,50,303,70,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2406.jpg 347,224,474,297,2 219,257,288,306,2
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2407.jpg 264,149,345,202,0 228,199,300,273,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2409.jpg 447,91,657,317,0
+G:\Wangmaosen\Code\YOLOv3_Sinatten_atten\YOLOv3_Sinatten_atten\VOCdevkit/VOC2007/JPEGImages/2410.jpg 231,120,292,200,0 344,205,685,455,2 15,184,202,386,2
